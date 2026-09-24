@@ -1,0 +1,42 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/GradleCache/
+/.gradle/
+/.utmp/
+
+# IDE-generated files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.opendb
+*.VC.db
+
+# Builds and signing credentials
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+/.vsconfig
